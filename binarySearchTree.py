@@ -27,6 +27,7 @@ class bst:
         self.insert_node(data,node.rightChild)
       else:
         node.rightChild=Node(data,node)
+  print("come to binarysearch tree program")
 b = bst()
 b.insert(30)
 b.insert(55)

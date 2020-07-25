@@ -1,2 +1,3 @@
 language = "python3"
-run = "python3 binarySearchTree.py"
+run = "python3 binarySearchTree.py; python3 binarysearch.py; python3 bubblesort.py; python3 findPathOfGraph.py; python3 linearsearch.py; python3 linkedlistPython.py; python3 mergesort.py; python3 monotonicArray.py; python3 moveElementToEnd.py; python3 paranthesisValidator.py; python3 selectionsort.py; python3 stringreverse.py;"
+
